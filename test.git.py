@@ -1,5 +1,5 @@
 def calculator():
-    print("Добре дошъл в Калкулатора!")
+    print("Добре дошъл в Калкулаторaaaaaaaaaа!")
     print("Операции: +  -  *  /")
     
     try:
